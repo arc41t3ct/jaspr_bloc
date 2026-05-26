@@ -30,3 +30,4 @@ doc/api/
 
 # Coverage output
 coverage/
+.claude/settings.json
